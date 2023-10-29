@@ -12,7 +12,7 @@ import numpy as np
 import matplotlib.animation as animation
 from IPython.display import HTML
 
-data_directory = '../Kapda/dataset'
+data_directory = 'data'
 imageSize = (256,256)
 types_folders=['cloth','skeleton','face_segment','agnostic-v3.2','image']
 batch_size=64
