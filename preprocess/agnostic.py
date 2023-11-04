@@ -4,7 +4,7 @@ from PIL import Image
 import numpy as np
 
 def get_agnostic_image(img):
-    model=torch.load('preprocess/agnostic_model',map_location=torch.device('cpu'))
+    model=torch.load('agnostic_model',map_location=torch.device('cpu'))
     imageSize = (256,256)
     transform=transforms.Compose([
         transforms.Resize(imageSize),
