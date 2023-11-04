@@ -29,6 +29,7 @@ pip install -e .
 
 '''bash
 python face_warping_test.py -i 0 -e rtnet50 --decoder fcn -n 11 -d cuda:0
+
 ## Training
 Hello ji
 ## Testing
