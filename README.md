@@ -8,5 +8,6 @@ Along with the base dataset we have done some custom preprocessing to improve th
 
 https://drive.google.com/drive/u/2/folders/1He7jVGmASwuPSPkkXOdURrgMyGFmSqyl
 ## Preprocessing
+The preprocess folder contains the code for skeleton pose and agnostic preprocessing. The respective files conatins the function which takes the image as input and returns the preprocessed image as output. The code for face segment is adapted from a different GitHub repository (link mentioned in References).
 ## Training
 ## Testing
