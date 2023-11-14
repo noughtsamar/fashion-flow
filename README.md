@@ -5,7 +5,7 @@ The ViTOn HD Dataset is used in this project. Please refer to the dataset's offi
 
 https://github.com/shadow2496/VITON-HD
 
-Along with the base dataset we have done some custom preprocessing to improve the results of the model. The preprocessed versions of the data along with the pretrained weights of the models for converting an image to agnostic and generator and discriminator have been uploaded in the below drive link.
+Along with the base dataset we have done some custom preprocessing to improve the results of the model. The preprocessed versions of the data along with the pretrained weights of the models for converting an image to agnostic, the generator and the discriminator have been uploaded in the below drive link.
 
 https://drive.google.com/drive/u/2/folders/1He7jVGmASwuPSPkkXOdURrgMyGFmSqyl
 ## Preprocessing
